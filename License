@@ -1,0 +1,229 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Version 1.0
+Effective Date: February 10, 2026
+Copyright © 2026. All Rights Reserved.
+
+================================================================================
+IMPORTANT: READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE
+================================================================================
+
+1. DEFINITIONS
+
+"Software" means the ARGUS framework, including all source code, documentation,
+binaries, and all related materials provided with this agreement.
+
+"You" or "User" means any individual or entity obtaining or using the Software.
+
+"Authorized User" means an individual explicitly granted permission to use 
+the Software by the copyright holder.
+
+"Proprietor" or "Copyright Holder" means the owner of all rights to the Software.
+
+2. LICENSE STATUS
+
+This Software is PROPRIETARY AND CONFIDENTIAL.
+This Software is NOT open source.
+This Software is NOT provided under any open source license (MIT, GNU, Apache, etc.).
+This Software is subject to EXCLUSIVE proprietary control.
+
+3. GRANT OF LICENSE
+
+RESTRICTED GRANT: The Proprietor grants you a LIMITED, NON-EXCLUSIVE, 
+NON-TRANSFERABLE, REVOCABLE license to use this Software ONLY IF:
+
+  a) You are an Authorized User with explicit written permission
+  b) Your use is strictly for authorized internal purposes
+  c) You comply with all terms of this agreement
+  d) You do not violate any applicable law or regulation
+
+NO OTHER RIGHTS ARE GRANTED. ALL OTHER RIGHTS ARE RESERVED.
+
+4. STRICT PROHIBITIONS
+
+You are EXPRESSLY PROHIBITED from:
+
+  ✗ Copying, duplicating, or reproducing the Software in any form
+  ✗ Distributing, sublicensing, or transferring the Software to others
+  ✗ Selling, licensing, or leasing the Software
+  ✗ Modifying, adapting, altering, or creating derivative works
+  ✗ Decompiling, disassembling, reverse engineering, or analyzing
+  ✗ Attempting to derive, extract, or reconstruct source code
+  ✗ Using the Software for commercial, business, or for-profit purposes
+  ✗ Publishing, disclosing, or making the Software publicly available
+  ✗ Uploading to repositories (GitHub, GitLab, BitBucket, etc.)
+  ✗ Forking, cloning, or creating branches of the Software
+  ✗ Incorporating into other projects or products
+  ✗ Renting, leasing, or lending the Software
+  ✗ Circumventing or bypassing any protection mechanisms
+  ✗ Integrating into cloud services or SaaS offerings
+  ✗ Using as a component in any third-party application
+  ✗ Sharing with unauthorized personnel or entities
+
+Violation of ANY prohibition may result in immediate legal action.
+
+5. PERMITTED USES
+
+You may ONLY:
+
+  ✓ Use the Software for your own internal authorized purposes
+  ✓ View the source code for understanding implementation
+  ✓ Run the Software on authorized systems
+  ✓ Use the Software's output for authorized analysis
+  ✓ Perform defensive security analysis with explicit authorization
+  ✓ Create internal documentation for authorized users
+
+All other uses are strictly prohibited.
+
+6. INTELLECTUAL PROPERTY RIGHTS
+
+ALL intellectual property rights in the Software remain the exclusive property
+of the Proprietor, including:
+
+  • Source code and object code
+  • Documentation and technical specifications
+  • Data, databases, and compilations
+  • Algorithms, methodologies, and logic
+  • Trade secrets and know-how
+  • User interface and design
+  • All enhancements, modifications, and derivative works
+
+No license to any intellectual property is granted except the limited license
+expressly stated in Section 3.
+
+7. CONFIDENTIALITY
+
+The Software contains CONFIDENTIAL AND PROPRIETARY INFORMATION.
+
+You agree to:
+  • Maintain strict confidentiality of the Software
+  • Protect the Software from unauthorized access
+  • Not disclose the Software to any unauthorized party
+  • Use the Software only as authorized
+  • Take all reasonable measures to prevent unauthorized copies
+
+8. SECURITY AND DEFENSIVE PURPOSE
+
+This Software is designed for DEFENSIVE security analysis only.
+
+PROHIBITED USES:
+  ✗ Offensive cybersecurity operations
+  ✗ Unauthorized network penetration testing
+  ✗ Exploitation of systems without explicit authorization
+  ✗ Any illegal or malicious purposes
+  ✗ Violation of computer fraud and access laws
+  ✗ Unauthorized system access or modification
+
+You are solely responsible for ensuring your use complies with all applicable
+laws, regulations, and authorization agreements.
+
+9. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND:
+
+  • NO EXPRESS OR IMPLIED WARRANTIES
+  • NO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE
+  • NO WARRANTIES OF ACCURACY, COMPLETENESS, OR RELIABILITY
+  • NO GUARANTEE OF UNINTERRUPTED SERVICE OR ERROR-FREE OPERATION
+  • NO WARRANTY AGAINST INFRINGEMENT OF THIRD-PARTY RIGHTS
+
+USE AT YOUR OWN RISK.
+
+10. LIMITATION OF LIABILITY
+
+EXCEPT WHERE PROHIBITED BY LAW:
+
+  • The Proprietor shall NOT be liable for any damages whatsoever
+  • This includes direct, indirect, incidental, special, consequential damages
+  • This includes loss of data, revenue, profits, or business interruption
+  • This limitation applies regardless of the cause or legal theory
+  • This limitation applies even if advised of possibility of such damages
+  • Maximum liability shall NOT exceed the amount paid for the Software
+
+11. TERMINATION
+
+This license is IMMEDIATELY TERMINATED if:
+
+  • You violate any term of this agreement
+  • You attempt to share, copy, or distribute the Software
+  • You use the Software for unauthorized purposes
+  • The Proprietor determines you are not an Authorized User
+  • Upon written notice by the Proprietor
+
+UPON TERMINATION:
+  ✓ You must immediately cease all use
+  ✓ You must destroy all copies
+  ✓ You must delete all Software files
+  ✓ Rights granted are immediately revoked
+  ✓ You remain liable for violations
+
+12. ENFORCEMENT AND REMEDIES
+
+The Proprietor may enforce this license through:
+  • Immediate termination of your access
+  • Civil legal action for damages
+  • Injunctive relief to prevent unauthorized use
+  • Criminal prosecution where applicable
+  • Recovery of attorney fees and court costs
+
+13. GOVERNING LAW
+
+This License is governed by applicable laws. Any disputes shall be resolved
+in the courts of competent jurisdiction.
+
+14. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between you and the Proprietor
+regarding the Software. No other terms or understandings are valid unless
+in writing and signed by the Proprietor.
+
+15. MODIFICATIONS
+
+The Proprietor reserves the right to modify this License at any time.
+Continued use of the Software constitutes acceptance of modifications.
+
+16. SEVERABILITY
+
+If any provision of this License is invalid or unenforceable, the remaining
+provisions shall remain in full force and effect.
+
+17. CONTACT FOR LICENSING
+
+For any licensing inquiries, commercial use requests, or permission requests:
+
+  📧 Email: securityxdrew87.variably659@passmail.net
+  
+  When contacting, please include:
+    • Your full name and organization
+    • Specific intended use of the Software
+    • Duration of requested license
+    • Number of users/systems
+    • Any relevant business information
+    • Your authorization requirements
+
+  Response times vary based on request complexity.
+  Unauthorized requests may be refused.
+  Commercial licensing agreements are available.
+
+================================================================================
+
+ACKNOWLEDGMENT:
+
+By downloading, installing, or using this Software, you acknowledge that:
+
+  ✓ You have read this entire License
+  ✓ You understand all terms and restrictions
+  ✓ You agree to comply with all terms
+  ✓ You understand this is NOT open source
+  ✓ You accept all limitations and disclaimers
+  ✓ You are an Authorized User or have obtained authorization
+
+FAILURE TO COMPLY WITH ANY TERM OF THIS LICENSE MAY RESULT IN LEGAL ACTION.
+
+================================================================================
+
+PROPRIETARY - NOT OPEN SOURCE
+THIS SOFTWARE IS STRICTLY CONTROLLED AND LICENSED.
+UNAUTHORIZED USE IS PROHIBITED AND SUBJECT TO LEGAL PENALTIES.
+
+================================================================================
